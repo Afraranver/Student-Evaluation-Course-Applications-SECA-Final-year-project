@@ -1,0 +1,21 @@
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\Student Evaluation Admin.exe.config
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\Student Evaluation Admin.exe
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\Student Evaluation Admin.pdb
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student Evaluation Admin.csprojAssemblyReference.cache
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student_Evaluation_Admin.Properties.Resources.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student Evaluation Admin.csproj.GenerateResource.cache
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student Evaluation Admin.csproj.CoreCompileInputs.cache
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student Evaluation Admin.exe
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student Evaluation Admin.pdb
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\FireSharp.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\RestSharp.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Debug\RestSharp.xml
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student Evaluation Admin.csproj.CopyComplete
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student_Evaluation_Admin.Signupform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student_Evaluation_Admin.Forgotform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student_Evaluation_Admin.Statform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student_Evaluation_Admin.Mainform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Debug\Student_Evaluation_Admin.LoginForm.resources

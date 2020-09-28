@@ -1,0 +1,21 @@
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\Student Evaluation Admin.exe.config
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\Student Evaluation Admin.exe
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\Student Evaluation Admin.pdb
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\FireSharp.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\FireSharp.Serialization.JsonNet.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\Newtonsoft.Json.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\RestSharp.dll
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\Newtonsoft.Json.xml
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\bin\Release\RestSharp.xml
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student_Evaluation_Admin.Forgotform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student_Evaluation_Admin.LoginForm.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student_Evaluation_Admin.Mainform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student_Evaluation_Admin.Properties.Resources.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student_Evaluation_Admin.Signupform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student_Evaluation_Admin.Statform.resources
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student Evaluation Admin.csproj.GenerateResource.cache
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student Evaluation Admin.csproj.CoreCompileInputs.cache
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student Evaluation Admin.csproj.CopyComplete
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student Evaluation Admin.exe
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student Evaluation Admin.pdb
+C:\Users\PyschoSid\source\repos\Student Evaluation Admin\Student Evaluation Admin\obj\Release\Student Evaluation Admin.csprojAssemblyReference.cache
